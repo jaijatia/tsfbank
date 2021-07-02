@@ -1,9 +1,9 @@
 <?php
 
 	$servername = "sql06.epizy.com";
-	$username = "epiz_29031458";
-	$password = "sQHi8PXFCbigab";
-	$dbname = "epiz_29031458_tsfbank";
+	$username = "dbusername";
+	$password = "dbpass";
+	$dbname = "epiz_290314_tsfbank";
 
 	$conn = mysqli_connect($servername, $username, $password, $dbname);
 
