@@ -1,1 +1,3 @@
-# BasicBankingSystem-GRIP-TSF-
+# Basic Banking System
+# TSF
+# GRIP Internship
